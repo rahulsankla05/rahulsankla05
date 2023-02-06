@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsankla05
-- 👀 I’m interested in Programming  
+- 👀 I’m a Coding Sufi  
 - 🌱 I’m currently learning DSA and Python  
 - 💞️ I’m looking to collaborate on Backend Developer Projects
 - 📫 How to reach me rahulsankla05@gmail.com and slack @rahulsankla05
